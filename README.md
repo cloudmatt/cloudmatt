@@ -23,6 +23,5 @@ I am a Cybersecurity Professional <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cloudmatt&theme=dark&background=000000)](https://git.io/streak-stats)
-                                                                                                                                                
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudmatt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=cloudmatt&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
