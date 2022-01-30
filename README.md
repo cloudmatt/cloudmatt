@@ -13,11 +13,11 @@ I am a Cybersecurity Professional <img src="https://media.giphy.com/media/WUlplc
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terraform_icon_131940.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ansible_icon_132595.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/google_cloud_logo_icon_145232.png" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/kubernetes_icon_132263.png" title="Kubernetes" alt="Kubernetes width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://b.thumbs.redditmedia.com/WmbHlRNHXOci-aUzBgHmKPMHRNvI2OtKF2XguHteO5A.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" title="Kubernetes" alt="Kubernetes width="40" height="40"/>
 </div>
 
 ---
