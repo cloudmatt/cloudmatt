@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 I am a Cybersecurity Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Ohio.
 
-- :cloud_with_lightning_and_rain: I’m working as a Cloud Security Engineer for an employee benefits company.
+- :cloud_with_lightning_and_rain: I’m working as senior level cybersecurity engineer focused in infrastructure and product security.
 
 - :desktop_computer: Learning how computers work and eventually how to be mediocre at writing code.
 
